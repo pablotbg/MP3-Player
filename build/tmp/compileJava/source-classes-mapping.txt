@@ -1,2 +1,10 @@
-mp3player/main/Main.java
- mp3player.main.Main
+controller/ContentPaneController.java
+ controller.ContentPaneController
+main/Main.java
+ main.Main
+controller/MenuPaneController.java
+ controller.MenuPaneController
+controller/ControlPaneController.java
+ controller.ControlPaneController
+controller/MainController.java
+ controller.MainController
