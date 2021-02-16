@@ -16,5 +16,5 @@ repositories {
 }
 
 dependencies {
-
+    implementation group: 'net.sf.javamusictag', name: 'jid3lib', version: '0.5.4'
 }

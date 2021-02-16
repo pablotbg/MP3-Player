@@ -1,10 +1,12 @@
-controller/ContentPaneController.java
- controller.ContentPaneController
+controller/ControlPaneController.java
+ controller.ControlPaneController
 main/Main.java
  main.Main
 controller/MenuPaneController.java
  controller.MenuPaneController
-controller/ControlPaneController.java
- controller.ControlPaneController
+mp3/Mp3Song.java
+ mp3.Mp3Song
 controller/MainController.java
  controller.MainController
+controller/ContentPaneController.java
+ controller.ContentPaneController
